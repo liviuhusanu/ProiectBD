@@ -1,0 +1,1 @@
+Rental ID: 0, Client ID: 18, Client Name: Lucas Diaz, Rental Date: 04.06.2024, Return Date: 15.06.2024, Status: active, Price Total: N/A
